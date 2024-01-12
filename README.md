@@ -36,9 +36,9 @@ Dive into the next frontier of campus placements, where opportunities meet innov
 - **Ever-Evolving Platform:** 🔄
   Join us in shaping the future. We're open to your feedback, suggestions, and evolving needs.
 
-### 🧙‍♂️ Mongoose 6 Magic:
+### 🧙‍♂️ Mongoose 7 Magic:
 
-Fueling our engine with Mongoose 6, witness the magic of a robust and efficient database connection. 🧙‍♂️🔗
+Fueling our engine with Mongoose 7, witness the magic of a robust and efficient database connection. 🧙‍♂️🔗
 
 ### 🚀 Your Placement Journey Begins Here:
 
